@@ -10,14 +10,14 @@ SMS Spam Collection Dataset
 
 ## Technologies Used
 
--Python
+- Python
 - Pandas
 - Scikit-learn
 - TF-IDF Vectorizer
 
 ## Algorithm Used
 
--Multinomial Naive Bayes
+- Multinomial Naive Bayes
 
 ## Accuracy
 
